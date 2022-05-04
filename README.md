@@ -1,6 +1,6 @@
 # Old School Resume
 
-An old school resume built in plain HTML just for fun/practice
+An old school resume built in plain HTML just for fun/practice. You can see the live perview by click this [link](https://eresume.vercel.app/)
 
 ## Screenshot
 
